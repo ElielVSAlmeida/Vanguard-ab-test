@@ -1,6 +1,6 @@
 USE project;
 
-SELECT * FROM WEBDATA;
+SELECT * FROM webdata;
 
 ALTER TABLE demo
 DROP COLUMN `index`;
