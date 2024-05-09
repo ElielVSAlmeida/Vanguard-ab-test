@@ -8,7 +8,7 @@ DROP COLUMN `index`;
 ALTER TABLE webdata
 DROP COLUMN `index`;
 
-ALTER TABLE experiment
+ALTER TABLE group_type
 DROP COLUMN `index`;
 
 
@@ -21,13 +21,13 @@ ADD webdata_id SERIAL;
 ALTER TABLE webdata
 ADD CONSTRAINT PK_webdata PRIMARY KEY (webdata_id);
 
-ALTER TABLE experiment
-ADD experiment_id SERIAL;
-ALTER TABLE experiment
-ADD CONSTRAINT PK_experiment PRIMARY KEY (experiment_id);
+ALTER TABLE group_type
+ADD group_type_id SERIAL;
+ALTER TABLE group_type
+ADD CONSTRAINT PK_group_type PRIMARY KEY (group_type_id);
 
-ALTER TABLE experiment
-ADD CONSTRAINT PK_experiment 
+ALTER TABLE group_type
+ADD CONSTRAINT PK_group_type
 FOREIGN KEY (client_id) REFERENCES demo(client_id);
 
 SET FOREIGN_KEY_CHECKS=0;
