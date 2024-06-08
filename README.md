@@ -1,6 +1,6 @@
 # Welcome to Vanguard-AB Test!
 
-First of all, this project aims to show a sample of the habilities in statistical analysis with **Scipy** and **Statsmodels**, and vizualization tools like **Tableau** , the goal is understand the **Key Performance Indicators** metrics and how can it weight on the engagement of the user with the platform. The data was cleaned and formatted with **Pandas**, then it was upload on **MySQL** with **SQLConnector** and **SQLAlchemy**.
+First of all, this project aims to show a sample of the habilities in statistical analysis with **Scipy** and **Statsmodels**, and vizualization tools like **Tableau** , the goal is understand the **Key Performance Indicators** metrics and how it can weight on the engagement of the user with the platform. The data was cleaned and formatted with **Pandas**, then it was upload on **MySQL** with **SQLConnector** and **SQLAlchemy**.
 
 - Vanguard is one of the largest investment management funds in the world.
 
