@@ -8,6 +8,7 @@ First of all, this project aims to show a sample of the habilities in statistica
 
 - With all the competitors and challenges of the new digital area, new design and new features of the web services needed to be evaluated and tested.
 
+![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/blob/main/Tableau/image.png)
 
 # KPI
 
@@ -27,19 +28,19 @@ First of all, this project aims to show a sample of the habilities in statistica
 
 ## Completion Rate
 
-![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/tree/main/_Others/completion_rate.png)
+![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/blob/main/_Others/completion_rate.png)
 
 ## Time Spent on a Successful operation
 
-![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/tree/main/_Others/average_successful_op.png)
+![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/blob/main/_Others/average_successful_op.png)
 
 ## Return to Start Error
 
-![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/tree/main/_Others/return_to_start.png)
+![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/blob/main/_Others/return_to_start.png)
 
 ## Timestamp Error
 
-![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/tree/main/_Others/timestamp_readings.png)
+![alt text](https://github.com/ElielVSAlmeida/Vanguard-ab-test/blob/main/_Others/timestamp_readings.png)
 
 # Conclusion
 
